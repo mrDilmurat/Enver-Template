@@ -1,0 +1,23 @@
+ls) - выводит список содержимого в папке
+
+
+cd - (change directory) переход между папкоми
+
+cd ../ - переход папкоми
+
+clear
+
+pwd (path working directory)
+
+ls -a - показать вскрытые папки
+
+rm -rf .git удалить папку 
+
+git init иницилизация git repositori
+
+git remote add origin <ssh-url> - привяска локального репозитория к удаленному
+git remote - v
+
+git status
+
+git add .
